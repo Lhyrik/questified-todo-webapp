@@ -1,0 +1,19 @@
+{
+  "name": "questies",
+  "version": "0.0.1",
+  "description": "A console-based todo app to manage life quests, time, and and progress.",
+  "main": "main.js",
+  "scripts": {
+    "test": "testquest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lhyrik/questified-todo-webapp.git"
+  },
+  "author": "Lhyrik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lhyrik/questified-todo-webapp/issues"
+  },
+  "homepage": "https://github.com/Lhyrik/questified-todo-webapp#readme"
+}
